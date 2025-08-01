@@ -1,85 +1,78 @@
-# 👋 ¡Hola! Soy Mauricio Pineda
+![Mauricio's Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=160&section=header&text=Mauricio%20Pineda%20%F0%9F%96%A5%EF%B8%8F&fontSize=40&fontAlign=center&fontColor=ffffff)
 
-🎯 Consultor tecnológico y desarrollador Python | Automatización inteligente & soluciones low-code  
+## 👋 ¡Hola! Soy Mauricio Pineda
+🎯 Desarrollador Python y consultor en automatización con enfoque social  
 📍 Bogotá, Colombia  
 📧 hmauricio.pineda@gmail.com  
-🌐 [Sitio Web](https://mauriciop-dev.github.io/) | 🐙 [GitHub](https://github.com/mauriciop-dev)
+🌐 [Portafolio Web](https://mauriciop-dev.github.io/) • 🐙 [GitHub](https://github.com/mauriciop-dev)
 
 ---
 
 ## 🚀 Sobre mí
+Soy un desarrollador y consultor con trayectoria en cooperación internacional y tecnología. Me especializo en automatización de procesos, soluciones low-code y desarrollo de herramientas digitales para mejorar la eficiencia y el impacto social.
 
-Soy un profesional con más de 15 años de experiencia liderando y ejecutando proyectos de transformación digital, automatización de procesos y desarrollo de soluciones tecnológicas aplicadas al sector público, privado y social.
-
-Trabajo con herramientas como **Python**, **Power Platform**, **n8n**, **Make** y **tecnologías de IA** para diseñar e implementar soluciones funcionales, escalables y con impacto real.
-
----
-
-## 🧰 Tecnologías y herramientas
-
-### Lenguajes y frameworks
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-
-### Automatización y análisis
-
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0078D4?logo=microsoftpowerautomate&logoColor=white&style=flat)
-![Power Apps](https://img.shields.io/badge/-Power%20Apps-B74790?logo=powerapps&logoColor=white&style=flat)
-![n8n](https://img.shields.io/badge/-n8n-EF3AAB?logo=n8n&logoColor=white&style=flat)
-![Make (Integromat)](https://img.shields.io/badge/-Make-2E2D88?logo=make&logoColor=white&style=flat)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white&style=flat)
-
-### Productividad y control
-
-![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoftsharepoint&logoColor=white&style=flat)
-![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?logo=microsoft&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+Actualmente estoy transicionando del mundo de la cooperación al ecosistema tech, con un fuerte enfoque en soluciones prácticas y humanas. 
 
 ---
 
-## 📦 Proyectos destacados
+## 🧰 Tecnologías que uso
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoft&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF7C00?style=flat&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-5436DA?style=flat&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-| Proyecto | Descripción | Repositorio |
-|---------|-------------|-------------|
-| 🌾 **Calculadora Agrícola** | Calcula costos por hectárea e insumos agrícolas | [Ver proyecto]() |
-| 📦 **Inventario empresa** | App de consola para gestión de productos | [Ver proyecto]() |
-| 🧠 **Clasificador de múltiplos** | Clasifica múltiplos del 1 al 99 | [Ver proyecto]() |
-| ✊ **Piedra, Papel o Tijera** | Juego clásico en consola con Python | [Ver proyecto]() |
-| 🎯 **Adivina el Número** | Juego de lógica con números aleatorios | [Ver proyecto]() |
+---
+
+## 🧠 Proyectos destacados
+| Proyecto                      | Descripción                                 | Repositorio                              |
+|------------------------------|---------------------------------------------|------------------------------------------|
+| 🌾 Calculadora Agrícola      | Calcula costos por hectárea e insumos       | [Ver](https://github.com/mauriciop-dev/calculadora-agricola) |
+| ✊ Piedra, Papel o Tijera     | Juego clásico en consola                    | [Ver](https://github.com/mauriciop-dev/piedra-papel-tijera) |
+| 🎯 Adivina el Número         | Juego de lógica en consola                  | [Ver](https://github.com/mauriciop-dev/adivina-el-numero) |
+| 📦 Inventario empresa        | Gestión básica de productos en consola      | [Ver](https://github.com/mauriciop-dev/inventario) |
+| 🧠 Chat IA empresarial       | IA con ventanas de contexto para empresas   | [Ver](https://github.com/mauriciop-dev) |
 
 ---
 
 ## 🧠 Servicios profesionales
-
 ### 🚀 Diagnóstico de Automatización e IA para empresas
+- Análisis de procesos repetitivos
+- Identificación de oportunidades de automatización
+- Plan de soluciones accesibles (low-code / no-code)
+- Opcional: implementación personalizada
 
-✅ Análisis de procesos internos  
-✅ Identificación de oportunidades de automatización  
-✅ Plan de implementación usando herramientas low-code / Python  
-✅ Opcional: implementación técnica personalizada
-
-📅 ¿Agendamos una reunión?  
-📩 hmauricio.pineda@gmail.com
+📩 Contáctame: hmauricio.pineda@gmail.com
 
 ---
 
 ## 📈 Objetivo profesional
+💻 Transicionar y consolidarme como Desarrollador Python / Analista de Automatización con impacto social. Me apasiona combinar herramientas tecnológicas con un enfoque centrado en las personas.
 
-💻 Estoy transicionando del sector de la cooperación internacional al ecosistema tecnológico, enfocado en:
-
-- Desarrollo de soluciones Python para automatización  
-- Consultoría en transformación digital con herramientas accesibles  
-- Apoyo técnico a organizaciones sociales y empresas emergentes
-
-✨ Buscando oportunidades como:
-- **Desarrollador Python**
-- **Analista de Automatización**
-- **Asistente Virtual Técnico**
+✨ Actualmente estoy explorando oportunidades como:
+- Desarrollador Python Jr.
+- Analista de Automatización o BI
+- Asistente Virtual Técnico para pymes
 
 ---
 
-Gracias por visitar mi perfil. ¡Conectemos y creemos soluciones juntos!
+## 📊 Estadísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mauriciop-dev&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciop-dev&layout=compact&theme=tokyonight" alt="Lenguajes más usados">
+</p>
+
+---
+
+## 🤝 ¡Conectemos!
+Si buscas a alguien con visión social y enfoque técnico, ¡hablemos!
+
+> "La tecnología con propósito humano transforma más que procesos: transforma vidas."
+
+📩 Escríbeme a: hmauricio.pineda@gmail.com
+
+🧭 [Explora mi portafolio](https://mauriciop-dev.github.io/) | 💼 [Perfil LinkedIn (pronto)](https://linkedin.com/in/hmauriciopineda)
